@@ -35,7 +35,7 @@ class Rakshita:
     location   = "Lucknow, India"
 
     def available(self):
-        return "Open to SDE / ML / Data internships — Summer 2025 🚀"
+        return "Open to SDE / ML / Data internships "
 ```
 
 - 🏆 **Dakshana Foundation Scholar** — Full IIT-JEE prep scholarship (2021–2023)
