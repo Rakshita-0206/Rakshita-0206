@@ -28,7 +28,7 @@ class Rakshita:
     name       = "Rakshita K Biradar"
     university = "Sitare University with SRMU, Lucknow"
     degree     = "B.Tech Computer Science (May 2027)"
-    cgpa       = 7.4
+    cgpa       = 7.53
 
     interests  = ["Full Stack Development", "Applied ML", "Computer Vision", "Data Analysis"]
     currently  = ["Machine Learning", "FastAPI", "DSA"]
