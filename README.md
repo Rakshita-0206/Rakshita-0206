@@ -86,10 +86,28 @@ class Rakshita:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎓 JEE College Predictor</h3>
+      <p>Web app that predicts the engineering colleges a student is likely to get based on their JEE rank, category, and preferences using cutoff data.</p>
+      <p><b>Stack:</b> Python · Flask · Pandas · HTML/CSS/JS</p>
+      <a href="https://github.com/Rakshita-0206/jee-college-finder-utmt-">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <h3>✈️ Flight Cost Analytics</h3>
       <p>Full-stack web app to compare flight routes, calculate cost-per-km, and visualize price trends using real datasets.</p>
       <p><b>Stack:</b> Flask · REST APIs · CSV/JSON · JavaScript · Responsive UI</p>
       <a href="https://github.com/Rakshita-0206/Flight-Cost-per-km">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💪 Body-Quest</h3>
+      <p>A fitness companion web app that helps users track workouts and stay consistent, with a mobile-responsive interface.</p>
+      <p><b>Stack:</b> Python · Flask · HTML/CSS/JS · Responsive UI</p>
+      <a href="https://github.com/Rakshita-0206/Body-Quest">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -112,16 +130,6 @@ class Rakshita:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Study Mate — AI Exam Assistant</h3>
-      <p>AI-powered study tool using Gemini API for personalized competitive exam prep with intelligent topic ranking.</p>
-      <p><b>Stack:</b> Python · Gemini API · HTML/CSS/JS</p>
-      <a href="https://github.com/Rakshita-0206/Smart-Exam-Preparation">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🔗 LinkedIn Graph Analysis</h3>
       <p>Network analysis on 152 classmates to detect influencers, bridge nodes, and hierarchy using graph theory.</p>
       <p><b>Stack:</b> Python · NetworkX · Graph Theory · Data Viz</p>
@@ -129,6 +137,8 @@ class Rakshita:
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Frontend Dhp Project</h3>
       <p>A responsive front-end project showcasing modern UI design skills with clean layouts and interactions.</p>
@@ -137,6 +147,7 @@ class Rakshita:
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
