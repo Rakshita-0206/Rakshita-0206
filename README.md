@@ -86,9 +86,12 @@ class Rakshita:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 JEE College Predictor</h3>
-      <p>Web app that predicts the engineering colleges a student is likely to get based on their JEE rank, category, and preferences using cutoff data.</p>
-      <p><b>Stack:</b> Python · Flask · Pandas · HTML/CSS/JS</p>
+      <h3>🎓 JEE College Predictor (Disha)</h3>
+      <p>Intelligent JoSAA/CSAB counselling portal that recommends colleges from a student's rank, category, gender & home state — sorted into Safe / Target / Dream with admission probability. Multilingual + installable PWA.</p>
+      <p><b>Stack:</b> FastAPI · Python · Pandas · HTML/CSS/JS · PWA</p>
+      <a href="https://jee-college-finder-utmt-asov.onrender.com/">
+        <img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=flat-square&logo=render&logoColor=white"/>
+      </a>
       <a href="https://github.com/Rakshita-0206/jee-college-finder-utmt-">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -104,9 +107,12 @@ class Rakshita:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💪 Body-Quest</h3>
-      <p>A fitness companion web app that helps users track workouts and stay consistent, with a mobile-responsive interface.</p>
-      <p><b>Stack:</b> Python · Flask · HTML/CSS/JS · Responsive UI</p>
+      <h3>🫀 Body-Quest</h3>
+      <p>Interactive NCERT biology learning game where students heal a patient organ-by-organ across 4 levels — identifying organs, matching diseases & foods, and diagnosing symptoms on a responsive body map. Built for the UTMT Learning Portal.</p>
+      <p><b>Stack:</b> FastAPI · Python · HTML/CSS/JS · Responsive UI</p>
+      <a href="https://www.utmt.org/body-quest/">
+        <img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=flat-square&logo=render&logoColor=white"/>
+      </a>
       <a href="https://github.com/Rakshita-0206/Body-Quest">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
