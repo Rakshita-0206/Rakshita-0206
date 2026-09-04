@@ -98,9 +98,12 @@ class Rakshita:
     </td>
     <td width="50%" valign="top">
       <h3>✈️ Flight Cost Analytics</h3>
-      <p>Full-stack web app to compare flight routes, calculate cost-per-km, and visualize price trends using real datasets.</p>
-      <p><b>Stack:</b> Flask · REST APIs · CSV/JSON · JavaScript · Responsive UI</p>
-      <a href="https://github.com/Rakshita-0206/Flight-Cost-per-km">
+      <p>Full-stack web app to compare Indian domestic flights by ₹ per kilometre — not just total price — backed by a live REST API and interactive UI.</p>
+      <p><b>Stack:</b> Flask · Python · REST API · HTML/CSS/JS · Responsive UI</p>
+      <a href="https://pawankushwahh.github.io/Flight_per_km_cost/">
+        <img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=flat-square&logo=render&logoColor=white"/>
+      </a>
+      <a href="https://github.com/Rakshita-0206/Flight_Project">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
